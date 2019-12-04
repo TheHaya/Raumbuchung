@@ -42,7 +42,7 @@ public class HomeScreen extends Fragment {
             }
         });
 
-        Toolbar toolbar_home = (Toolbar) view.findViewById(R.id.toolbar_home);
+        //Toolbar toolbar_home = (Toolbar) view.findViewById(R.id.toolbar_home);
 
 
 
