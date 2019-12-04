@@ -11,6 +11,7 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.Toolbar;
 
 
 /**
@@ -40,6 +41,10 @@ public class HomeScreen extends Fragment {
                 arrayAdapter.notifyDataSetChanged();
             }
         });
+
+        Toolbar toolbar_home = (Toolbar) view.findViewById(R.id.toolbar_home);
+
+
 
         return view;
     }
