@@ -2,5 +2,9 @@
     <string name="app_name">Raumbuchung</string>
     <string name="home_tooltext">Home</string>
     <string name="button_add_home">Hinzufügen</string>
+    <string name="button_input">button_login</string>
+    <string name="Login_User">Username angeben</string>
+    <string name="Login_password">Passwort angeben</string>
+    <string name="Login_button">Login</string>
 
 </resources>
