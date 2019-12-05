@@ -6,5 +6,6 @@
     <string name="Login_User">Username angeben</string>
     <string name="Login_password">Passwort angeben</string>
     <string name="Login_button">Login</string>
+    <string name="buchen">buchen</string>
 
 </resources>
